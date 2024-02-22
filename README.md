@@ -39,3 +39,5 @@ Predictive insights from data mining techniques for improved planning.
 Outcome:
 
 A fully functional and integrated data ecosystem.
+
+Vote: 29 
